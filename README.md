@@ -1,10 +1,20 @@
 Program **connecting to SQL Server database** with such features as:
 
-1. **signing in** ```  see -> userLogin.h  ```
-2. **signing up** ```  see -> userRegister.h  ```
-3. **changing password**  ```  see -> changePassword.h  ```
-4. **deleting the account** ```  see -> deleteUser.h  ```
-5. **signing off**  ```  see -> userLogout.h  ``` 
+1. **signing in** ```  see -> ```
+[userLogin.h](https://github.com/Tosiaalwayssmile/LoginAndRegistrationSystem/blob/main/userLogin.h) and
+[userLogin.cpp](https://github.com/Tosiaalwayssmile/LoginAndRegistrationSystem/blob/main/userLogin.cpp)
+2. **signing up** ```  see -> ```
+[userRegister.h](https://github.com/Tosiaalwayssmile/LoginAndRegistrationSystem/blob/main/userRegister.h) and
+[userRegister.cpp](https://github.com/Tosiaalwayssmile/LoginAndRegistrationSystem/blob/main/userRegister.cpp)
+3. **changing password**  ```  see -> ```
+[changePassword.h](https://github.com/Tosiaalwayssmile/LoginAndRegistrationSystem/blob/main/changePassword.h) and
+[changePassword.cpp](https://github.com/Tosiaalwayssmile/LoginAndRegistrationSystem/blob/main/changePassword.cpp)
+4. **deleting the account** ```  see -> ```
+[deleteUser.h](https://github.com/Tosiaalwayssmile/LoginAndRegistrationSystem/blob/main/deleteUser.h) and
+[deleteUser.cpp](https://github.com/Tosiaalwayssmile/LoginAndRegistrationSystem/blob/main/deleteUser.cpp)
+5.  **signing off**  ```  see -> ```
+[userLogout.h](https://github.com/Tosiaalwayssmile/LoginAndRegistrationSystem/blob/main/userLogout.h) and
+[userLogout.cpp](https://github.com/Tosiaalwayssmile/LoginAndRegistrationSystem/blob/main/userLogout.cpp)
 
 It allows **selecting**, **inserting**, **updating** and **deleting** data in the database.
 
